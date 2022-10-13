@@ -1,0 +1,14 @@
+.photo {
+    height: 50px;
+    width: 50px;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+.table {
+    display: grid;
+    grid-template-columns: 1fr 1fr 80%; 
+    max-width: 480px;
+}
