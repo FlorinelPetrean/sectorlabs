@@ -4,7 +4,7 @@ import axios from "axios";
 // const octokit = new Octokit({ auth: "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" });
 const axiosAuth = axios.create({ 
     headers: { 
-      Authorization: "Bearer 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"
+      Authorization: "Bearer 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"
     } 
   });
 const BASE_URL = 'https://api.github.com'
